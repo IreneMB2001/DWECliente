@@ -1,0 +1,26 @@
+body{
+    background-image: url(../imgs/biblioteca.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+div.contenido{
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    border-radius: 15px;
+    background-color: rgb(246, 208, 190);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+p{
+    font-size: large;
+}
+
+input{
+    border-radius: 8px;
+}
+img{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
